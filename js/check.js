@@ -17,7 +17,7 @@ function regex1(nameString){
 }
 /*正则匹配学号*/
 function regex2(idString){
-	var re = /\d{8}/;
+	var re = /^\d{8}$/;
 	var string = idString;
 	var result = re.exec(string);
 	if (result != null)	

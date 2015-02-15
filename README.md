@@ -1,12 +1,13 @@
-###一个简单的记录学生上机/签到信息的小系统
-<br />
-通过**HTML**填表单，之后用**PHP**往*MySQL*中存储并读取数据实现
+### 一个简单的记录学生上机/签到信息的小系统
+
+  
+通过**HTML**填表单，之后用**PHP**往_MySQL_中存储并读取数据实现
 
 前端做得非常渣，见笑，整体功能也很简陋，只能算是一个练手的小实例
 
 以后可能会完善下这个小系统
 
-**demo**：[http://studentsign.sinaapp.com/](http://studentsign.sinaapp.com/)
+**demo**：[http://studentsign.sinaapp.com/][0]
 
 ===
 
@@ -15,3 +16,12 @@
 ===
 
 修正完毕，再美化下前端吧
+
+===
+
+修正了正则，前端方面由[月月][1]修改，第一次开源协作，值得纪念~
+
+代码量完爆了我（200+修改），再次感谢他
+
+[0]: http://studentsign.sinaapp.com/
+[1]: https://github.com/yuetsh
